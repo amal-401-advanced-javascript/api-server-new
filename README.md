@@ -16,7 +16,7 @@
 
   - [swagger hub page](https://app.swaggerhub.com/apis/AmalMAlmomani/api-server-lab-06/0.1) 
   - [Swagger documentation](https://app.swaggerhub.com/apis-docs/AmalMAlmomani/api-server-lab-06/0.1)
-  - [deployed url]()
+  - [deployed url](https://dashboard.heroku.com/apps/api-server-amal)
 ## Modules
   - Node.js
   - Postman
